@@ -1,10 +1,7 @@
-package com.bridgelaz;
-
 import java.util.Random;
 
-public class Gambler {
-
-	public static void main (String[] args) {
+public class Gambling_UC4 {
+    public static void main (String[] args) {
         int stake_of_Gambler = 100;
         int bet_for_Game = 1;
         int count = 1;
